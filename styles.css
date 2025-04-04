@@ -94,8 +94,28 @@ section {
     align-items: center;
 }
 
-/* No spacing between sections */
-#about,
+/* Spacing between hero and profile gallery */
+#about {
+    margin-bottom: 30px;
+    padding-top: 100px; /* Add top padding to account for fixed header */
+}
+
+.profile-gallery {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(100, 255, 218, 0.2);
+    border: 3px solid var(--accent);
+    z-index: 50; /* Ensure it stays below the header (z-index: 100) */
+}
+
+#gallery {
+    padding-top: 30px;
+}
+
+/* No spacing between other sections */
 #experience,
 #education,
 #certifications,
@@ -250,16 +270,6 @@ section {
   
   .skill-level.in-view::after {
     width: var(--width);
-  }
-/* Profile Gallery */
-.profile-gallery {
-    position: relative;
-    width: 300px;
-    height: 300px;
-    border-radius: 50%;
-    overflow: hidden;
-    box-shadow: 0 10px 30px rgba(100, 255, 218, 0.2);
-    border: 3px solid var(--accent);
   }
   
   .profile-pic {
