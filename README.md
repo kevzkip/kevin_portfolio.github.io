@@ -47,8 +47,8 @@ FinMetrics – Personal finance tracker web app
 
 To run this locally:
 ```bash
-git clone https://github.com/kevzkip/kevin_portfolio.github.io.git
-cd kevin_portfolio.github.io
+git clone https://github.com/kevzkip/kevzkip.github.io.git
+cd kevzkip.github.io
 # Then open index.html in your browser
 ```
 ## 📬 Contact
