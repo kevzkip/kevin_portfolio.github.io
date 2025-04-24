@@ -1,7 +1,7 @@
 # Kevin's Portfolio
 This portfolio showcases personal projects like an AI-powered learning platform and IoT home automation system. It features an interactive project gallery, animated skill bars, and a working contact form. Built with HTML5, CSS3, and JavaScript, and hosted on GitHub Pages.
 
-[![Live Demo](https://img.shields.io/badge/View-Live_Portfolio-64ffda?style=flat-square)](https://kevzkip.github.io/kevin_portfolio.github.io/)
+[![Live Demo](https://img.shields.io/badge/View-Live_Portfolio-64ffda?style=flat-square)](https://kevzkip.github.io/)
 ![Built With](https://img.shields.io/badge/HTML-CSS_JS-0a192f?style=flat-square)
 
 **Live URL:** [kevzkip.github.io](https://kevzkip.github.io)
