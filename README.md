@@ -4,7 +4,7 @@ This portfolio showcases personal projects like an AI-powered learning platform 
 [![Live Demo](https://img.shields.io/badge/View-Live_Portfolio-64ffda?style=flat-square)](https://kevzkip.github.io/kevin_portfolio.github.io/)
 ![Built With](https://img.shields.io/badge/HTML-CSS_JS-0a192f?style=flat-square)
 
-**Live URL:** [kevzkip.github.io/kevin_portfolio.github.io](https://kevzkip.github.io/kevin_portfolio.github.io/)
+**Live URL:** [kevzkip.github.io](https://kevzkip.github.io)
 
 ## Tech Stack
 - **Frontend**: Pure HTML, CSS, JavaScript (No frameworks)
